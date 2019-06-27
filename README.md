@@ -1,0 +1,1 @@
+# multiple-delete-in-php
